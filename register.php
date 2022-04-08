@@ -1,4 +1,4 @@
-# register.php
+
 
             <section class="py-5 bg-light" id="scroll-target">
                 <div class="container px-5 my-5">
@@ -45,3 +45,7 @@
                     </div>
                 </div>
             </section>
+         
+
+        <!-- Footer-->
+     
